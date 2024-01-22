@@ -1,8 +1,12 @@
-# React + Vite
+# React + Vite | Todo-List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This todo-list is made as a project to deepen my knowledge of React and Javascript.
 
-Currently, two official plugins are available:
+# Features:
+Add a Todo listing
+Set priority for each listing
+Checklist a finished todo
+Remove a Todo listing
+Listings have different colors for each priority
+Todo list is set to show higher priority todos on top of lower priority ones
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
