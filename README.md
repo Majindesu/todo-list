@@ -9,3 +9,6 @@ This todo-list is made as a project to deepen my knowledge of React and Javascri
 - Remove a Todo listing
 - Listings have different colors for each priority
 - Todo list is set to show higher priority todos on top of lower priority ones
+
+## Deployed instance:
+https://majin-todolist.netlify.app/
